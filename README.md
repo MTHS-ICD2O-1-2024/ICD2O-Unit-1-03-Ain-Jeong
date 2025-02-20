@@ -1,8 +1,8 @@
 # ICS2O
 
-[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Intro-04-Ain-Jeong/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Intro-03-Ain-Jeong/actions)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-ain-jeong/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-ain-jeong/actions)
 
-This site can be found at: [https://https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/>](https:/https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/)
+This site can be found at: [https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/Unit-1/ICD2O-Unit-1-03-ain.jeong/](https://icd2o-1-teh.type-code.cloud/~ain.jeong/ICD2O-1/Unit-1/ICD2O-Unit-1-03-ain.jeong/)
 
 ---
 
